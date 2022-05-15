@@ -19,6 +19,7 @@ La aplicación está disponible para Android.
 <a href="https://www.java.com/">
     <img src="https://1000marcas.net/wp-content/uploads/2020/11/Java-logo.png" width="200">
 </a>
+<br>
 <a href="https://firebase.google.com/">
     <img src="https://firebase.google.com/images/brand-guidelines/logo-built_black.png" width="200">
 </a>
