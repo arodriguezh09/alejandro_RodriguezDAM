@@ -6,8 +6,7 @@
 -----
 
 ## ¿Qué es Weeknvan?
-  Weeknapp es una aplicación pensada para el **alquiler de autocaravanas** y campers. Mediante esta aplicación, los usuarios se podrán poner en contacto
-entre ellos para poder alquilar los vehículos. A su vez, lo propietarios podrán subir los anuncios de sus campers, así como gestionar las reservas de las mismas.
+  Weeknapp es una aplicación pensada para el **alquiler de autocaravanas** y campers. Mediante esta aplicación, los usuarios se podrán poner en contacto entre ellos para poder alquilar los vehículos. A su vez, lo propietarios podrán subir los anuncios de sus campers, así como gestionar las reservas de las mismas.
 
 ## Plataformas
   La aplicación está disponible para Android.
