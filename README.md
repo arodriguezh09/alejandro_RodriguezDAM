@@ -1,7 +1,6 @@
 # Weeknvan
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Volkswagen_logo_2019.svg" width="200" >
-  <h2 align="center" margin="40">Weeknvan</h2>
 </p>
 
 ## ¿Qué es Weeknvan?
