@@ -1,6 +1,6 @@
 # Weeknvan
 <p align="center">
-  <img src="https://github.com/arodriguezh09/weeknvan/blob/main/media/play_store_feature_graphic.png" width="300px">
+  <img src="https://github.com/arodriguezh09/weeknvan/blob/main/media/play_store_feature_graphic.png" width="400px">
 </p>
 
 -----
