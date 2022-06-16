@@ -30,22 +30,22 @@ También se ha utilizado Firebase como BaaS, facilitando así las tareas de mane
 </a>
 <br>
 ## Pantallas de la aplicación
-Pantalla de login y registro<br>
+# Pantalla de login y registro
 <img src="https://github.com/arodriguezh09/weeknvan/blob/main/pantallas/1.jpg" width="150">
 <img src="https://github.com/arodriguezh09/weeknvan/blob/main/pantallas/2.jpg" width="150">
-<br>
-Pantalla principal y búsqueda<br>
+<br><br>
+# Pantalla principal y búsqueda<br>
 <img src="https://github.com/arodriguezh09/weeknvan/blob/main/pantallas/3.jpg" width="150">
 <img src="https://github.com/arodriguezh09/weeknvan/blob/main/pantallas/4.jpg" width="150">
-<br>
-Detalles del vehículo y reserva<br>
+<br><br>
+# Detalles del vehículo y reserva<br>
 <img src="https://github.com/arodriguezh09/weeknvan/blob/main/pantallas/5.jpg" width="150">
 <img src="https://github.com/arodriguezh09/weeknvan/blob/main/pantallas/6.jpg" width="150">
-<br>
-Gestión de reservas<br>
+<br><br>
+# Gestión de reservas<br>
 <img src="https://github.com/arodriguezh09/weeknvan/blob/main/pantallas/7.jpg" width="150">
-<br>
-Ajustes de usuario y gestión de vehículos<br>
+<br><br>
+# Ajustes de usuario y gestión de vehículos<br>
 <img src="https://github.com/arodriguezh09/weeknvan/blob/main/pantallas/8.jpg" width="150">
 <img src="https://github.com/arodriguezh09/weeknvan/blob/main/pantallas/9.jpg" width="150">
 <br>
