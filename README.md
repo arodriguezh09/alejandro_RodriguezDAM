@@ -39,10 +39,11 @@ También se ha utilizado Firebase como BaaS, facilitando así las tareas de mane
 <img src="https://github.com/arodriguezh09/weeknvan/blob/main/pantallas/5.jpg" width="150">  <img src="https://github.com/arodriguezh09/weeknvan/blob/main/pantallas/6.jpg" width="150">
 <br><br>
 ### Gestión de reservas
-<img src="https://github.com/arodriguezh09/weeknvan/blob/main/pantallas/7.jpg" width="150">
+<img src="https://github.com/arodriguezh09/weeknvan/blob/main/pantallas/7.jpg" width="150"> 
 <br><br>
 ### Ajustes de usuario y gestión de vehículos
 <img src="https://github.com/arodriguezh09/weeknvan/blob/main/pantallas/8.jpg" width="150">  <img src="https://github.com/arodriguezh09/weeknvan/blob/main/pantallas/9.jpg" width="150">
+<br>
 ## Manual
 [📚👤 Manual del usuario Android](https://github.com/arodriguezh09/weeknvan/blob/main/manuales/ManualTecnico_Weeknvan.pdf "Descargar manual")
 <br>
