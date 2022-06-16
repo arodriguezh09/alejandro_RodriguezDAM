@@ -33,7 +33,6 @@ También se ha utilizado Firebase como BaaS, facilitando así las tareas de mane
 ### Pantalla de login y registro
 <img src="https://github.com/arodriguezh09/weeknvan/blob/main/pantallas/1.jpg" width="150">
 <img src="https://github.com/arodriguezh09/weeknvan/blob/main/pantallas/2.jpg" width="150">
-<br><br>
 ### Pantalla principal y búsqueda
 <img src="https://github.com/arodriguezh09/weeknvan/blob/main/pantallas/3.jpg" width="150">
 <img src="https://github.com/arodriguezh09/weeknvan/blob/main/pantallas/4.jpg" width="150">
