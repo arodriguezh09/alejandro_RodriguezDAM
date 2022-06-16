@@ -34,11 +34,22 @@ Pantalla de login y registro<br>
 <img src="https://github.com/arodriguezh09/weeknvan/blob/main/pantallas/1.jpg" width="200">
 <img src="https://github.com/arodriguezh09/weeknvan/blob/main/pantallas/2.jpg" width="200">
 <br>
-Pantalla de búsqueda
+Pantalla principal y búsqueda<br>
 <img src="https://github.com/arodriguezh09/weeknvan/blob/main/pantallas/3.jpg" width="200">
+<img src="https://github.com/arodriguezh09/weeknvan/blob/main/pantallas/4.jpg" width="200">
+<br>
+Detalles del vehículo y reserva<br>
+<img src="https://github.com/arodriguezh09/weeknvan/blob/main/pantallas/5.jpg" width="200">
+<img src="https://github.com/arodriguezh09/weeknvan/blob/main/pantallas/6.jpg" width="200">
+<br>
+Gestión de reservas<br>
+<img src="https://github.com/arodriguezh09/weeknvan/blob/main/pantallas/7.jpg" width="200">
+<br>
+Ajustes de usuario y gestión de vehículos<br>
+<img src="https://github.com/arodriguezh09/weeknvan/blob/main/pantallas/8.jpg" width="200">
+<img src="https://github.com/arodriguezh09/weeknvan/blob/main/pantallas/9.jpg" width="200">
 <br>
 ## Manual
-⌛ En desarrollo...
+[📚👤 Manual del usuario Android](https://github.com/arodriguezh09/weeknvan/blob/main/manuales/ManualTecnico_Weeknvan.pdf "Descargar manual")
+[📚👨🏻‍💻 Manual del desarrollador Android](https://github.com/arodriguezh09/weeknvan/blob/main/manuales/ManualUsuario_Weeknvan.pdf "Descargar manual")
 
-## Disclaimer
-Este 'README.md' está en una fase inicial de desarrollo y sufrirá cambios en las próximas semanas.
